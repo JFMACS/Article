@@ -13,3 +13,8 @@
 | 标题 | 原文  |
 | :------------: |:---------------:|
 |[将域名部署到Tomcat中](/pdf/将域名部署到Tomcat中.pdf)|[链接](https://blog.csdn.net/qq_36330228/article/details/78516160)|
+
+### IDEA相关
+| 标题 | 原文  |
+| :------------: |:---------------:|
+|[IDEA快速生成实体类](/pdf/IDEA快速生成实体类.pdf)|[链接](https://blog.csdn.net/hgg923/article/details/53439038)|
