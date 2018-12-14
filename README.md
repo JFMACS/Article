@@ -18,3 +18,8 @@
 | 标题 | 原文  |
 | :------------: |:---------------:|
 |[IDEA快速生成实体类](/pdf/IDEA快速生成实体类.pdf)|[链接](https://blog.csdn.net/hgg923/article/details/53439038)|
+
+### js相关
+| 标题 | 原文  |
+| :------------: |:---------------:|
+|[JS获取真实的外网IP和内网IP以及IPv6地址](/pdf/JS获取真实的外网IP和内网IP以及IPv6地址.pdf)|[链接](https://blog.csdn.net/kirinlau/article/details/80833805)|
