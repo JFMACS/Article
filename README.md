@@ -18,7 +18,7 @@
 | 标题 | 原文  |
 | :------------: |:---------------:|
 |[IDEA快速生成实体类](/pdf/IDEA快速生成实体类.pdf)|[链接](https://blog.csdn.net/hgg923/article/details/53439038)|
-
+|[IDEA修改maven为阿里镜像](/pdf/IDEA修改maven为阿里镜像.pdf)|[链接](https://blog.csdn.net/liangyihuai/article/details/57406870)|
 ### js相关
 | 标题 | 原文  |
 | :------------: |:---------------:|
